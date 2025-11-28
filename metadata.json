@@ -1,0 +1,5 @@
+{
+  "name": "CryptoDroid Market",
+  "description": "Una aplicación estilo Android para visualizar precios de BTC, ETH y XRP en tiempo real con análisis impulsado por Gemini.",
+  "requestFramePermissions": []
+}
